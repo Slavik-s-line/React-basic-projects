@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+a {
+  color: yellow;
+  font-size: 35px;
+}
+
+nav a {
+  margin: 15px;
+}
+
+nav {
+  background-color: darkslategray;
+  padding: 5px;
+}
+
+.active {
+  color: lightyellow;
+  text-decoration: none;
+}
+
+.activeLink {
+  color: lightyellow;
+  text-decoration: none;
+}
+
+.couseLink {
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.couseLink:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 90px;
+}
+
+button {
+  padding: 15px;
+  font-size: 30px;
+  border-radius: 5px;
+  border: 0;
+  margin: 20px;
+  cursor: pointer;
+}
